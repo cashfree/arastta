@@ -1,6 +1,6 @@
 ## Cashfree Payment plugin for Arastta
 
-Cashfree Payments is an Indian payment aggregator helping you cater to all your customers' payment needs. Cashfree Payments seamlessly integrates with Arastta to let you accept payments for your Indian business on your Arastta website. With a Cashfree Payments hosted checkout and an intuitive dashboard you can be up and running in no time.
+Cashfree Payments is an Indian payment aggregator helping you cater to all your customer's payment needs. Cashfree Payments seamlessly integrates with Arastta to let you accept payments for your Indian business on your Arastta website. With a Cashfree Payments hosted checkout and an intuitive dashboard you can be up and running in no time.
 
 This extension utilizes Cashfree API and provides seamless integration with Arastta, allowing payments for Indian merchants via Credit Cards, Debit Cards, Net Banking (supports 3D Secure) without redirecting away from the Arastta site.
 
