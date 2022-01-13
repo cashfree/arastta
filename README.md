@@ -29,3 +29,7 @@ This extension utilizes Cashfree API and provides seamless integration with Aras
 ### Support
 
 Visit [cashfree support](https://www.cashfree.com/en/report-issue) for support requests.
+
+### Discord
+Send us a message on our [discord server](https://discord.gg/Mrs2je75f9)
+ 
